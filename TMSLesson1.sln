@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMSLesson1Console", "TMSLesson1Console\TMSLesson1Console.csproj", "{8C4F1698-67E3-4F59-9772-392C0698C7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMSLesson1Library", "TMSLesson1Library\TMSLesson1Library.csproj", "{BF983B75-6408-47C3-ABD0-899D2D2E62E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4F1698-67E3-4F59-9772-392C0698C7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4F1698-67E3-4F59-9772-392C0698C7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4F1698-67E3-4F59-9772-392C0698C7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4F1698-67E3-4F59-9772-392C0698C7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF983B75-6408-47C3-ABD0-899D2D2E62E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF983B75-6408-47C3-ABD0-899D2D2E62E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF983B75-6408-47C3-ABD0-899D2D2E62E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF983B75-6408-47C3-ABD0-899D2D2E62E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
