@@ -1,8 +1,9 @@
 ﻿using System.Reflection;
+using TMSLesson1Library;
 
 namespace TMSLesson1Console
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {

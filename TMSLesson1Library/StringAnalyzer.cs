@@ -1,6 +1,6 @@
 ﻿namespace TMSLesson1Library
 {
-    internal class StringAnalyzer
+    public class StringAnalyzer
     {
         public string OddOrEvenAnalyzer(string str)
         {

@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TMSLesson1Library\TMSLesson1Library.csproj" />
+  </ItemGroup>
+
 </Project>
