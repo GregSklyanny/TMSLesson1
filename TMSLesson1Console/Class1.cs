@@ -8,8 +8,7 @@ namespace TMSLesson1Console
 {
     internal class Class1
     {
-        //branchA --- 
-        //ddd
+        //branchB 
 
     }
 }
