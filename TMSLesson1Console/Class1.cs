@@ -8,14 +8,8 @@ namespace TMSLesson1Console
 {
     internal class Class1
     {
-<<<<<<< HEAD
-
-
-        //branchA --- 
+      //branchA --- 
         //ddd
-=======
-        //branchB --- 
->>>>>>> parent of 3551248 (Merge branch 'branchB')
 
 
     }
