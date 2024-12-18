@@ -8,11 +8,8 @@ namespace TMSLesson1Console
 {
     internal class Class1
     {
-<<<<<<< HEAD
         //branchB --- 
-=======
-      //branchA --- 
->>>>>>> parent of ab1423d (adsad)
+
         //ddd
 
 
